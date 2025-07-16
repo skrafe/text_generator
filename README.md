@@ -1,1 +1,1 @@
-# Neural Style Transfer
+# GPT-2 Text Generator
